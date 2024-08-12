@@ -22,7 +22,6 @@ const menus = [
       tomatoes, and tangy pickles. Add a slice of onion, a dollop of ketchup,
       and a smear of mustard, all nestled between a soft, toasted bun. Every
       bite is a burst of flavor!`,
-    price: "25.90",
   },
 ];
 export const MenuContainer = () => {
