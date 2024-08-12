@@ -1,5 +1,3 @@
-import React from "react";
-
-export const Head = () => {
-  return <h1 className="font">VEGAN BURGER</h1>;
+export const Head = (props) => {
+  return <h1 className="font">{props.name}</h1>;
 };
